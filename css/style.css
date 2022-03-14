@@ -1,0 +1,518 @@
+body {
+    background-color: #04050E;
+}
+
+::-webkit-scrollbar {
+    width: 10px;
+  }
+  
+  /* Track */
+  ::-webkit-scrollbar-track {
+    background: #0D0D1C;
+  }
+  
+  /* Handle */
+  ::-webkit-scrollbar-thumb {
+    background: #181831;
+  }
+  
+  /* Handle on hover */
+  ::-webkit-scrollbar-thumb:hover {
+    background: #1f1f3f;
+  }
+
+#isim {
+    color: white;
+    font-family: 'K2D';
+    font-size: 20px;
+    font-weight: bold;
+    margin-top: 39px;
+    margin-left: 450px;
+}
+
+a {
+    color: white;
+    margin-left: 10px;
+    margin-top: 10px;
+    text-decoration: none;
+}
+
+#spo {
+    background-color: #040404;
+    width: 50px;
+    margin-left: 1270px;
+    margin-top: -60px;
+    height: 50px;
+    border-radius: 9px;
+}
+
+#spo:hover {
+    background-color: #101118;
+}
+
+#ig {
+    background-color: #040404;
+    width: 50px;
+    margin-left: 1330px;
+    margin-top: -50px;
+    height: 50px;
+    border-radius: 9px;
+}
+
+#ig:hover {
+    background-color: #101118;
+}
+
+#git {
+    background-color: #040404;
+    width: 50px;
+    margin-left: 1385px;
+    margin-top: -50px;
+    height: 50px;
+    border-radius: 9px;
+}
+
+#git:hover {
+    background-color: #101118;
+}
+
+#anasayfa {
+    margin-left: 450px;
+    margin-top: 20px;
+}
+
+#anasayfaa {
+    font-family: 'Arial';
+    font-weight: normal;
+}
+
+#projelerim {
+    margin-left: 570px;
+    margin-top: -16px;
+}
+
+#projee {
+    font-family: 'Arial';
+    font-weight: normal;
+    color: white;
+}
+
+#iletişim {
+    margin-left: 695px;
+    margin-top: -16px;
+    color: white;
+}
+
+#telefon {
+    font-family: 'Arial';
+    font-weight: normal;
+    color: white;
+}
+
+#hakkımda {
+    width: 980px;
+    height: 220px;
+    background-color: #080915;
+    margin-top: 50px;
+    margin-left: 450px;
+    border-radius: 10px;
+}
+
+#thendra {
+    color: white;
+    font-family: 'K2D';
+    font-size: 30px;
+    margin-top: 10px;
+    margin-left: 40px;
+}
+
+#ben {
+    color: #828287;
+    font-family: 'K2D';
+    font-size: 15px;
+    margin-top: 10px;
+    margin-left: 40px;
+}
+
+#projeyazi {
+    color: white;
+    font-family: 'Arial';
+    font-weight: bold;
+    font-size: 30px;
+    margin-left: 450px;
+    margin-top: 80px;
+}
+
+#projealtyazi {
+    color: #828287;
+    font-family: 'Arial';
+    font-weight: normal;
+    font-size: 20px;
+    margin-left: 450px;
+    margin-top: -30px;
+}
+
+#verse {
+    width: 300px;
+    height: 100px;
+    background-color: #080915;
+    margin-top: 40px;
+    margin-left: 450px;
+    border-radius: 10px;
+}
+
+#verse:hover {
+    background-color: #0B0B19;
+    cursor: pointer;
+}
+
+#pass {
+    width: 300px;
+    height: 100px;
+    background-color: #080915;
+    margin-top: -113px;
+    margin-left: 770px;
+    border-radius: 10px;
+}
+
+#pass:hover {
+    background-color: #0B0B19;
+    cursor: pointer;
+}
+
+#admin-panel {
+    width: 300px;
+    height: 100px;
+    background-color: #080915;
+    margin-top: -113px;
+    margin-left: 1090px;
+    border-radius: 10px;
+}
+
+#admin-panel:hover {
+    background-color: #0B0B19;
+    cursor: pointer;
+}
+
+#dc-music {
+    width: 300px;
+    height: 100px;
+    background-color: #080915;
+    margin-top: 0px;
+    margin-left: 450px;
+    border-radius: 10px;
+}
+
+#dc-music:hover {
+    background-color: #0B0B19;
+    cursor: pointer;
+}
+
+#yazilimdil {
+    color: white;
+    font-family: 'Arial';
+    font-weight: bold;
+    font-size: 30px;
+    margin-top: 80px;
+    margin-left: 450px;
+    overflow: visible;
+    white-space: nowrap;
+}
+
+#yazilimdili {
+    color: #828287;
+    font-family: 'Arial';
+    font-weight: normal;
+    font-size: 20px;
+    margin-top: -30px;
+    margin-left: 450px;
+    overflow: visible;
+    white-space: nowrap;
+}
+
+#html {
+    width: 240px;
+    height: 43px;
+    border-radius: 10px;
+    background-color: #080915;
+    margin-left: 450px;
+}
+
+#html:hover {
+    background-color: #0B0B19;
+    cursor: pointer;
+}
+
+#htmlyazi {
+    color: white;
+    font-family: 'Arial';
+    font-weight: bold;
+    margin-top: -20px;
+    margin-left: 180px;
+}
+
+#Nodejs {
+    width: 240px;
+    height: 43px;
+    border-radius: 10px;
+    background-color: #080915;
+    margin-left: 700px;
+    margin-top: -43px;
+}
+
+#Nodejs:hover {
+    background-color: #0B0B19;
+    cursor: pointer;
+}
+
+#nodeyazi {
+    color: white;
+    font-family: 'Arial';
+    font-weight: bold;
+    margin-top: -24px;
+    margin-left: 170px;
+}
+
+#javas {
+    width: 240px;
+    height: 43px;
+    border-radius: 10px;
+    background-color: #080915;
+    margin-left: 950px;
+    margin-top: -43px;
+}
+
+#javas:hover {
+    background-color: #0B0B19;
+    cursor: pointer;
+}
+
+#javasyazi {
+    color: white;
+    font-family: 'Arial';
+    font-weight: bold;
+    margin-top: -20px;
+    margin-left: 150px;
+}
+
+#csharp {
+    width: 240px;
+    height: 43px;
+    border-radius: 10px;
+    background-color: #080915;
+    margin-left: 1200px;
+    margin-top: -43px;
+}
+
+#csharp:hover {
+    background-color: #0B0B19;
+    cursor: pointer;
+}
+
+#csharpyazi {
+    color: white;
+    font-family: 'Arial';
+    font-weight: bold;
+    margin-top: -20px;
+    margin-left: 210px;
+}
+
+#css {
+    width: 240px;
+    height: 43px;
+    border-radius: 10px;
+    background-color: #080915;
+    margin-left: 450px;
+    margin-top: 10px;
+}
+
+#css:hover {
+    background-color: #0B0B19;
+    cursor: pointer;
+}
+
+#cssyazi {
+    color: white;
+    font-family: 'Arial';
+    font-weight: bold;
+    margin-top: -20px;
+    margin-left: 195px;
+}
+
+#php {
+    width: 240px;
+    height: 43px;
+    border-radius: 10px;
+    background-color: #080915;
+    margin-left: 700px;
+    margin-top: -43px;
+}
+
+#php:hover {
+    background-color: #0B0B19;
+    cursor: pointer;
+}
+
+#phpyazi {
+    color: white;
+    font-family: 'Arial';
+    font-weight: bold;
+    margin-top: -15px;
+    margin-left: 195px;
+}
+
+#py {
+    width: 240px;
+    height: 43px;
+    border-radius: 10px;
+    background-color: #080915;
+    margin-left: 950px;
+    margin-top: -43px;
+}
+
+#py:hover {
+    background-color: #0B0B19;
+    cursor: pointer;
+}
+
+#pyyazi {
+    color: white;
+    font-family: 'Arial';
+    font-weight: bold;
+    margin-top: -20px;
+    margin-left: 170px;
+}
+
+#footer {
+    width: 1900px;
+    height: 110px;
+    background-color: #070712;
+    margin-left: -10px;
+}
+
+#footertext {
+    color: white;
+    font-family: 'Arial';
+    font-weight: normal;
+    font-size: 17px;
+    margin-left: 460px;
+    line-height: 25px;
+}
+
+#discord {
+    width: 240px;
+    height: 43px;
+    border-radius: 10px;
+    background-color: #0D0D1C;
+    margin-left: 1200px;
+    margin-top: -80px;
+}
+
+#discord:hover {
+    background-color: #161631;
+    cursor: pointer;
+}
+
+#discordyazi {
+    color: white;
+    font-family: 'Arial';
+    font-weight: normal;
+    margin-top: -9px;
+    margin-left: 55px;
+}
+ 
+#instagrambut {
+    width: 350px;
+    height: 50px;
+    border-radius: 10px;
+    background-color: #0D0D1C;
+    margin-top: 0px;
+}
+
+#instagrambut:hover {
+    background-color: #161631;
+    cursor: pointer;
+}
+
+#igyazi {
+    color: white;
+    font-family: 'Arial';
+    font-weight: bold;
+    font-size: 20px;
+    margin-top: -27px;
+    margin-left: 170px;
+}
+
+#twitterbut {
+    width: 350px;
+    height: 50px;
+    border-radius: 10px;
+    background-color: #0D0D1C;
+    margin-top: 10px;
+}
+
+#twitterbut:hover {
+    background-color: #161631;
+    cursor: pointer;
+}
+
+#twyazi {
+    color: white;
+    font-family: 'Arial';
+    font-weight: bold;
+    font-size: 20px;
+    margin-top: -27px;
+    margin-left: 170px;
+}
+
+#discordbut {
+    width: 350px;
+    height: 50px;
+    border-radius: 10px;
+    background-color: #0D0D1C;
+    margin-top: 10px;
+}
+
+#discordbut:hover {
+    background-color: #161631;
+    cursor: pointer;
+}
+
+#dcyazi {
+    color: white;
+    font-family: 'Arial';
+    font-weight: bold;
+    font-size: 20px;
+    margin-top: -27px;
+    margin-left: 190px;
+}
+
+#mailbut {
+    width: 350px;
+    height: 50px;
+    border-radius: 10px;
+    background-color: #0D0D1C;
+    margin-top: 10px;
+}
+
+#mailbut:hover {
+    background-color: #161631;
+    cursor: pointer;
+}
+
+#mailyazi {
+    color: white;
+    font-family: 'Arial';
+    font-weight: bold;
+    font-size: 18px;
+    margin-top: -27px;
+    margin-left: 78px;
+}
+
+#footer2 {
+    width: 1900px;
+    height: 110px;
+    background-color: #070712;
+    margin-left: -10px;
+    margin-top: 290px;
+}
