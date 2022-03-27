@@ -1,4 +1,4 @@
-# benthendra.cf - Personal Website<br/>
+# benthendra.cf - Kişisel Website<br/>
 #### [Demo](https://benthendra.cf) - [Discord Sunucum](https://discord.gg/tDyBJ8rv8k)
 
 ## ⭐ Star
