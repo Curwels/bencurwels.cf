@@ -89,24 +89,23 @@ a {
 #projelerim {
     margin-left: 570px;
     margin-top: -16px;
+    color: #828287;
 }
 
-#projee {
-    font-family: 'Arial';
-    font-weight: normal;
-    color: white;
+#projeleryazi {
+    color: #828287;
 }
 
 #iletişim {
     margin-left: 695px;
     margin-top: -16px;
-    color: white;
+    color: #828287;
 }
 
 #telefon {
     font-family: 'Arial';
     font-weight: normal;
-    color: white;
+    color: #828287;
 }
 
 #hakkımda {
@@ -384,7 +383,7 @@ a {
 }
 
 #footer {
-    width: 1900px;
+    width: 1910px;
     height: 110px;
     background-color: #070712;
     margin-left: -10px;
@@ -509,10 +508,49 @@ a {
     margin-left: 78px;
 }
 
-#footer2 {
-    width: 1900px;
+#footer3 {
+    width: 1920px;
     height: 110px;
     background-color: #070712;
     margin-left: -10px;
     margin-top: 290px;
+}
+
+#footer2 {
+    width: 1909px;
+    height: 110px;
+    background-color: #070712;
+    margin-left: -10px;
+    margin-top: 290px;
+}
+
+#discordmusic {
+    width: 320px;
+    height: 360px;
+    background-color: #070712;
+    border-radius: 20px;
+}
+
+#discordmusic:hover {
+    background-color: #0B0B19;
+    cursor: pointer;
+}
+
+#dctr {
+    color: white;
+    font-family: 'Arial';
+    font-weight: bold;
+    font-size: 18px;
+    margin-top: 30px;
+    margin-left: -140px;
+}
+
+#dctrr {
+    color: #828287;
+    font-family: 'Arial';
+    font-weight: normal;
+    font-size: 18px;
+    margin-top: -14px;
+    margin-left: 15px;
+    text-align: justify;
 }
